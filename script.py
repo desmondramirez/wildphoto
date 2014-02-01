@@ -1,4 +1,4 @@
-I did make a conflict, but this is resolving it
+Yet another change for exercise 7
 # All rigths reserved
 # Camera trap script
 

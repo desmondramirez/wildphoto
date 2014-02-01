@@ -1,4 +1,4 @@
-did I make a conflict here?
+I did make a conflict, but this is resolving it
 # All rigths reserved
 # Camera trap script
 

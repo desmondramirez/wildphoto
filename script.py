@@ -1,11 +1,15 @@
 # All rigths reserved
 # Camera trap script
 
-Read data file
+
+conflict?
+Read data file changed something else
 
 Run analysis
 
-Make table
+Make table added a thing
 Make header bold
 
 Make small figure, red line
+
+making all the experimental changes

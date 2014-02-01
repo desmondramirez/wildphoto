@@ -1,3 +1,4 @@
+making more changes
 # All rigths reserved
 # Camera trap script
 
